@@ -1,0 +1,5 @@
+Momo's,NonVeg,250.0,10
+Pasta,Veg,150.0,20
+Burger,Veg,100.0,15
+Chicken,NonVeg,200.0,5
+Paneer,Veg,180.0,8
